@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EESM5060_Lab3</string>
+    <string name="app_subtitle">EESM5060_Lab3 by hcayuen</string>
+    <string name="btnStartText">Start</string>
+    <string name="statusRedTurn">Red Circle Turn…</string>
+    <string name="statusRedWin">Red Circle Win!</string>
+    <string name="statusBlueTurn">Blue Cross Turn…</string>
+    <string name="statusBlueWin">Blue Cross Win!</string>
+    <string name="statusWaitStart">Press \"Start\" to start a game</string>
+    <string name="statusDraw">Draw Game</string>
+</resources>
